@@ -1,3 +1,13 @@
+# testing-playground
+
+Sample CRA testing with Jest, Enzyme and stryker-mutator.
+
+A simple playground project to start using Jest in pair with Enzyme for testing components.
+
+Contains a few simple React components (functional and class components with methods) and Redux store.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
